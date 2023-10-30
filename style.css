@@ -1,0 +1,19 @@
+.card-container{
+    display: flex;
+    border: 2px black;
+    
+}
+
+.card-element{
+    border: 2px  black;
+    margin-left: 20px; 
+    background-color: white; 
+    height: 1000px;
+    width: 150px;
+    height: 250px;
+}
+
+.submit{
+    padding-left: 500px;
+    padding-top: 100px;
+}
